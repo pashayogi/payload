@@ -1,1 +1,3 @@
-# payload
+#backdoor
+#jangan recode cuk
+
